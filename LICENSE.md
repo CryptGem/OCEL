@@ -1,4 +1,4 @@
-# Open Collab Entity License
+# Open Collab Entity License 1.0
 This license is an open source license that governs the use of an Open Collab Entity, 
 By using an Open Collab Entity, you agree to the following terms and conditions:
 
