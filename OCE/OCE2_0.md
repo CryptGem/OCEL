@@ -9,6 +9,11 @@ By using an Open Collab Entity, you agree to the following terms and conditions:
    Attribution should include the name of the original creators and a link to the original entity.
    You may not remove or obscure any copyright notices, license information, or attribution information included in the Open Collab Entity or any open collab NFTs used in your projects or derivative works.
    If you remix, transform, or build upon the Open Collab Entity, you must distribute your contributions under the same license as the original.
+   
+- Social Media
+When sharing or promoting collaborations created using the Open Collab Entity, you must tag or reference the original creators of the work and include any social media links or hashtags provided by the creator. This includes but is not limited to sharing on social media platforms, posting on websites or blogs, and featuring in online or print publications.
+
+If the creator has provided specific social media guidelines or branding assets, you must follow those guidelines and use the provided assets in all promotional materials.
 
    ## Restrictions
    You may not use the Open Collab Entity in any projects or derivative works that contain inappropriate content, which includes but is not limited to content that is offensive, discriminatory, defamatory, obscene, or pornographic.
