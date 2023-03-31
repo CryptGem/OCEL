@@ -10,6 +10,9 @@ By using an Open Collab Entity, you agree to the following terms and conditions:
     
   - The name of the core entity, the name of the original creators 
   - A link to the original entity
+  - Sharing or promoting collaborations must include tag or reference the original creators of the work and include         any social media links or hashtags provided by the creator. This includes but is not limited to sharing on           social media platforms, posting on websites or blogs, and featuring in online or print publications.
+
+  - If the creator has provided specific social media guidelines or branding assets, you must follow those    guidelines and use the provided assets in all promotional materials.
   - Additionally, derivative collaborators must be credited 
   - If you remix, transform, or build upon the Open Collab Entity, you must distribute your contributions 
     under the same license as the original
