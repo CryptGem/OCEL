@@ -43,10 +43,14 @@ By using an Open Collab Entity, you agree to the following terms and conditions:
 
  ## Open Collab Art
    Any projects or derivative works using the Open Collab Entity must not modify the linework without permission.
+   
+ ## Royalties:
+If an Open Collab Entity or any derivative works that incorporate an Open Collab Entity are sold or otherwise generate revenue, the original creator of the Open Collab Entity is entitled to a 50% share of the revenue as royalties written into the smart contract.
 
- ## Limitation of Liability
+## Limitation of Liability
    The Open Collab Entity and any open collab NFTs used in your projects or derivative works are 
     provided "as is," without any warranties or guarantees of any kind, express or implied.
+
 
  ## Termination
    The Open Collab Entity License will automatically terminate if you violate any of the terms
