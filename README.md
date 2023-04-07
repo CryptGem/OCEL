@@ -6,9 +6,9 @@ The Open Collab Entity License provides a set of terms and conditions for using 
 
 The Open Collab Entity framework is a collaborative platform designed for artists, creators, and developers to collaborate on creative and technical projects. It provides a standard set of rules and guidelines for collaboration, including attribution, restrictions on usage, and permissions for modifications.
 
-The framework is particularly focused on projects involving open collab NFTs, which are digital art pieces that are tokenized and sold as unique assets on the blockchain. By using the Open Collab Entity framework, creators can collaborate on the creation of open collab NFTs, share in the profits from their sale, and ensure proper attribution and credit for their contributions.
+The framework is particularly focused on projects involving open collab NFTs and can also be used for a wide range of creative and technical projects, including music, film, and software development. The framework is open source, which means that it can be freely used and modified by anyone, subject to the terms of the Open Collab Entity License.
 
-In addition to open collab NFTs, the Open Collab Entity framework can also be used for a wide range of creative and technical projects, including music, film, and software development. The framework is open source, which means that it can be freely used and modified by anyone, subject to the terms of the Open Collab Entity License.
+By using the Open Collab Entity framework, creators can collaborate on the creation of open collab NFTs, share in the profits from their sale, and ensure proper attribution and credit for their contributions.
 
 The Open Collab Entity framework is designed to promote collaboration and community-building in creative and technical projects, while also ensuring that the contributions of all collaborators are properly recognized and attributed. By providing a clear set of rules and guidelines for collaboration, the framework enables creators to work together more effectively and efficiently, and to create more innovative and compelling projects.
 
