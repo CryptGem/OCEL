@@ -4,7 +4,7 @@ The Open Collab Entity is a new concept in collaboration that is designed to pro
 
 At the heart of the Open Collab Entity is a new type of license that we have developed specifically for collaborative works. The Open Collab Entity License is a flexible and adaptable license that allows creators to work together on projects of all kinds, while ensuring that their rights are protected and their work is recognized.
 
-This white paper is intended to provide an overview of the Open Collab Entity and the Open Collab Entity License, including the key principles, features, and benefits of this innovative new approach to collaboration.
+This is a highlight of the Open Collab Entity License, including the key principles, features, and benefits of this innovative new approach to collaboration.
 ## Principles
 
 The Open Collab Entity is based on a set of core principles that reflect a commitment to openness, transparency, and community:
