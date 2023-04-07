@@ -7,7 +7,7 @@ At the heart of the Open Collab Entity is a new type of license that we have dev
 This white paper is intended to provide an overview of the Open Collab Entity and the Open Collab Entity License, including the key principles, features, and benefits of this innovative new approach to collaboration.
 ## Principles
 
-The Open Collab Entity is based on a set of core principles that reflect our commitment to openness, transparency, and community:
+The Open Collab Entity is based on a set of core principles that reflect a commitment to openness, transparency, and community:
 ## Openness
 
 The Open Collab Entity is built on the principle of openness. We believe that collaboration is most effective when it is open and transparent, and that creators should have the freedom to collaborate without fear of restriction or infringement.
