@@ -1,6 +1,6 @@
 # OCEL
 
-Welcome to the Open Collab Entity Git! This repository contains the Open Collab Entity License, which is an open source license that governs the use of an Open Collab Entity, a framework for collaboration and community-building in creative and technical projects, particularly those involving open collab NFTs.
+Welcome to the Open Collab Entity Git! This repository contains the Open Collab Entity License, an open source license that governs the use of an Open Collab Entity, a framework for collaboration and community-building in creative and technical projects, particularly those involving open collab NFTs.
 
 The Open Collab Entity License provides a set of terms and conditions for using the framework, including requirements for attribution, restrictions on use, and guidelines for commercial use. By using an Open Collab Entity, you agree to abide by these terms and conditions.
 
